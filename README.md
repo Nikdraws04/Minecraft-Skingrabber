@@ -10,16 +10,24 @@ This is an unofficial python skingrabber for minecraft using the python library 
 ## Installation
 
 First go in the skingrabber folder and download the requirements.txt.
-```$ pip install -r requirements.txt```
+```
+$ pip install -r requirements.txt
+```
 
 Step 2:
-```$ python grabber.py```
+```
+$ python grabber.py
+```
 
 Step 3:
 Now it asks you which Minecraft skin you want if we want for example the skin from notch we would do this:
-```Which skin do you want?: notch```
+```
+Which skin do you want?: notch
+```
 Now you need to include a filname lets call the file test:
-```How should the skin be called?: test```
+```
+How should the skin be called?: test
+```
 Now the skin should be in your folder and you can add it to Minecraft. If you want to download another skin just type y to download another one.
 
 ## Disclaimer
