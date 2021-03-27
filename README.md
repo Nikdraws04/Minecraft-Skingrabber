@@ -1,4 +1,6 @@
 <p align=center>
+  <img src="https://cdn.discordapp.com/attachments/804055988067106848/825408005612240926/ezgif.com-gif-maker.gif"/>
+  <br>
   <a target="_blank" href="https://www.python.org/downloads/" title="Python version"><img src="https://img.shields.io/badge/python-%3E=_3.6-green.svg"></a>
   <a target="_blank" href="LICENSE" title="License: MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
   </p>
